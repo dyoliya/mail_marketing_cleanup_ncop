@@ -1,0 +1,48 @@
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.vscode
+
+# Environment variables file (contains secrets)
+.env
+config/
+
+# Virtual environments
+venv/
+env/
+tests/
+build/
+dist/
+debug_output/
+test_output/
+
+# data folders
+output/
+input/
+old/
+new/
+database/
+local_c3_cache/
+budb/
+prod_database/
+pipedrive/
+ncop_database/
+input_others/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+*.exe
+*.spec
+*.zip
+*.xlsx
+*.db
+*.xlsx
+*.csv
+*.json
+*.mp4
+*.db
